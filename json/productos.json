@@ -3,30 +3,5 @@
         "id": 1,
         "name": "Cono de papas",
         "price": "3500"
-    },
-    {
-        "id": 2,
-        "name": "Pancho",
-        "price": "1300"
-    },
-    {
-        "id": 3,
-        "name": "Bastones de muzza",
-        "price": "5000"
-    },
-    {
-        "id": 4,
-        "name": "Licuado de AGUA",
-        "price": "1800"
-    },
-    {
-        "id": 5,
-        "name": "Licuado de LEHCE",
-        "price": "2500"
-    },
-    {
-        "id": 6,
-        "name": "Licuado con FRUTA",
-        "price": "3000"
     }
 ]
