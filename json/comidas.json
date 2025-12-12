@@ -28,5 +28,9 @@
         "id": 6,
         "name": "Licuado con FRUTA",
         "price": "3000"
+    },
+    {
+        "name": "Cokita",
+        "price": 200
     }
 ]
